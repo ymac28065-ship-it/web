@@ -2,7 +2,7 @@
 
 
 ![](.repo/hacker-theme.jpg)
-<br>
+<br> 
 </br>
 ![](https://img.shields.io/badge/Code_in-HTML-orange)
 ![](https://img.shields.io/badge/Code_in-CSS-blue)
@@ -10,17 +10,18 @@
 <br>
 </br>
 ![](https://img.shields.io/badge/Maintained-Yes-green)
-![](https://img.shields.io/badge/Version-1.0.1-yellow)
+![](https://img.shields.io/badge/Version-1.0.2-cyan)
 <br>
-</br>
+<br>
 <a href="https://github.com/thelearn-tech/hacker-theme/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/thelearn-tech/Friday?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/thelearn-tech/hacker-theme?color=0088ff" /></a>
 <a href="https://github.com/thelearn-tech/hacker-theme/pulls">
-      <img alt="Pulls" src="https://img.shields.io/github/issues-pr/thelearn-tech/Friday?color=0088ff" />
+      <img alt="Pulls" src="https://img.shields.io/github/issues-pr/thelearn-tech/hacker-theme?color=0088ff" /></a>
 
-</br>
+<br>
 
 ## About
+
 This is a recreation of <a href="https://github.com/pages-themes/hacker">***pages-themes/hacker***</a> in `HTML`. 
 The original project used **markdown** and **ruby(Jekyll highlighting)** for easy maintainability. 
 
@@ -30,22 +31,27 @@ This project simply allows you to host this theme in any standard web server, wi
 IP address is provided from
 ~~**api.ipify.org**. Read there **Policy** before deployment.~~
 <br>
-will be removed soon.
 
-## Usage
+**Will Be Set To Manual.**
 
-Simply clone & `*modify*`
+## Download
+
 <br>
 
 `git clone https://github.com/thelearn-tech/hacker-theme.git`
 
-<br>
 
 OR
+
+
+`Download as a <a href="https://github.com/thelearn-tech/hacker-theme/archive/refs/heads/main.zip">.zip</a>`
+
 <br>
 
-Download as a .zip <a href="https://github.com/thelearn-tech/hacker-theme/archive/refs/heads/main.zip">hacker-theme.zip</a>
-<br>
+# Change Log
+
+<a href="./CHANGELOG.md">***visit here***</a>
+
 
 # Absolutely free to use
 
